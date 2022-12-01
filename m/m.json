@@ -1,6 +1,5 @@
-//大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
-//盗用接口可耻
-//关注公众号【应用多多】回复“接口”，获取最新接口
+//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
+
 {
   "sites": [
 //{ "key":"douban","name":"🍀公众号:应用多多,更新时间:2022/11/17","type":4, "api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch":0,"filterable": 0 },
@@ -37,7 +36,7 @@
  },
     {
       "key":"csp_biubiu_鸭奈飞",
-      "name":"🦆鸭奈飞",
+      "name":"🦆奈飞影视",
       "type":3,
       "api":"csp_XBiubiu",
       "searchable":1,
@@ -56,7 +55,7 @@
     
     {
       "key": "csp_xBPQ_真不卡",
-      "name": "🚀真不卡XB",
+      "name": "🚀不卡影视",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -67,7 +66,7 @@
 
     {
       "key": "SPQQ",
-      "name": "🐧腾讯(官)",
+      "name": "🐧腾讯官方",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -76,7 +75,7 @@
     },
     {
       "key": "SPIQY",
-      "name": "🥝爱奇艺(官)",
+      "name": "🥝奇艺官方",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -85,7 +84,7 @@
     },
     {
       "key": "MGT",
-      "name": "🥭芒果(官)",
+      "name": "🥭芒果官方",
       "type": 3,
       "api": "csp_Mgtv",
       "searchable": 1,
@@ -96,28 +95,19 @@
     
     {
       "key":"csp_Bd",
-      "name":"💥哔嘀SP",
+      "name":"💥哔嘀影视",
       "type":3,
       "api":"csp_Bdys01",
       "searchable":1,
       "quickSearch":1,
       "filterable":1
       },
-   {
-      "key": "bdys",
-      "name": "📯哔嘀影视",
-      "type": 3,
-      "api": "csp_XPbd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/bdys.json"
-    },
+   
     
     
     {
       "key": "csp_xBPQ_抓饭体育",
-      "name": "️⚽抓饭体育",
+      "name": "️⚽体育影视",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -160,7 +150,7 @@
  
  {
       "key": "csp_biubiu_斗鱼",
-      "name": "🦈斗鱼XBB",
+      "name": "🦈斗鱼直播",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 0,
@@ -170,7 +160,7 @@
     },
     {
       "key": "网易CC",
-      "name": "🐠网易CC",
+      "name": "🐠网易直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -181,7 +171,7 @@
 
     {
       "key": "csp_xpath_酷狗MV",
-      "name": "🐶酷狗MV",
+      "name": "🐶酷狗音乐",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -191,7 +181,7 @@
     },
     {
       "key": "csp_xpath_kuqimv",
-      "name": "🎤酷奇MV",
+      "name": "🎤酷奇音乐",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -202,7 +192,7 @@
     
     {
       "key":"csp_GitCafe",
-      "name":"🔖小纸条",
+      "name":"🔖纸条影视",
       "type":3,
       "api":"csp_Gitcafe",
       "playerType":1,
@@ -213,7 +203,7 @@
       },
     {
       "key":"Yisou",
-      "name":"🎯易搜",
+      "name":"🎯易搜网盘",
       "type":3,
       "api":"csp_Yisou",
       "playerType":1,
@@ -224,7 +214,7 @@
       },
     {
       "key":"Zhaozy",
-      "name":"🔍找资源",
+      "name":"🔍资源影视",
       "type":3,
       "api":"csp_Zhaozy",
       "playerType":1,
@@ -235,7 +225,7 @@
       },
     {
       "key":"Upyunso",
-      "name":"🌤️云搜",
+      "name":"🌤️云搜资源",
       "type":3,
       "api":"csp_Upyunso",
       "playerType":1,
@@ -246,7 +236,7 @@
       },
     {
       "key":"Alips",
-      "name":"📀盘搜",
+      "name":"📀盘搜资源",
       "type":3,
       "api":"csp_AliPS",
       "playerType":1,
@@ -268,17 +258,6 @@
     },
     
 
-
-    {
-      "key": "不卡影院",
-      "name": "🏅不卡影院",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
-    },
     {
       "key": "干饭影视",
       "name": "🍚干饭影视",
@@ -301,15 +280,12 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
     },
     
-    {
-      "key": "MBO 影视",
-      "name": "🍹MBO 影视",
-      "type": 0,
-      "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    }
+   
+
+
+
+
+
   ],
   "lives": [
     {
